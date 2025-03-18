@@ -98,6 +98,5 @@ git push origin feature/nueva-funcionalidad
 ---
 
 ¡Gracias por visitar este proyecto! 🎉
-```
 
-  
+
