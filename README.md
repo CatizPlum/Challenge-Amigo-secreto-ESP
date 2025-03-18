@@ -1,17 +1,12 @@
-Aquí tienes un **README.md** bien estructurado y listo para copiar y pegar en tu repositorio de **GitHub**.
 
----
+<h1>README.md</h1>
 
-## 📌 **README.md**
-
-```md
-# 🎁 Amigo Secreto
+ 🎁 Amigo Secreto
 
 Una aplicación interactiva que permite a los usuarios añadir nombres a una lista y realizar un **sorteo de Amigo Secreto** de manera aleatoria. Este proyecto fue desarrollado utilizando **HTML**, **CSS** y **JavaScript**.
 
----
 
-## 🚀 **Características**
+<h2>🚀 Características</h2>
 
 ✅ Agregar amigos a una lista interactiva.  
 ✅ Validar que el nombre no esté vacío al añadirlo.  
