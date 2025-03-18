@@ -6,6 +6,9 @@
 Una aplicación interactiva que permite a los usuarios añadir nombres a una lista y realizar un **sorteo de Amigo Secreto** de manera aleatoria. Este proyecto fue desarrollado utilizando **HTML**, **CSS** y **JavaScript**.
 
 
+---
+
+
 <h2>🚀 Características</h2>
 
 ✅ Agregar amigos a una lista interactiva.  
