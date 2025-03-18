@@ -41,24 +41,6 @@ Una aplicación interactiva que permite a los usuarios añadir nombres a una lis
 
 ---
 
-## 📌 **Cómo ejecutar el proyecto**
-
-Sigue estos pasos para ejecutar el proyecto localmente:
-
-1. **Clonar el repositorio:**
-```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
-```
-
-2. **Acceder al directorio del proyecto:**
-```bash
-cd amigo-secreto
-```
-
-3. **Abrir el archivo `index.html` en tu navegador favorito.**
-
----
-
 ## 📋 **Instrucciones de uso**
 
 1. Escribe el nombre de los participantes en el campo de entrada.
@@ -66,28 +48,6 @@ cd amigo-secreto
 3. Una vez agregados todos los amigos, presiona el botón **"Sortear Amigo"**.
 4. El sistema seleccionará un **amigo secreto aleatorio** y se mostrará en pantalla.
 5. La lista se limpiará visualmente, pero los nombres seguirán disponibles para futuros sorteos.
-
----
-
-## 📌 **Contribuir**
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue estos pasos:
-
-1. Haz un **fork** del repositorio.
-2. Crea una **rama** con tu nueva característica:  
-```bash
-git checkout -b feature/nueva-funcionalidad
-```
-3. Realiza tus **cambios** y haz un **commit**:  
-```bash
-git commit -m "Agrega una nueva funcionalidad"
-```
-4. Sube tus cambios:  
-```bash
-git push origin feature/nueva-funcionalidad
-```
-5. Abre un **Pull Request**.
-
 
 
 ---
