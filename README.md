@@ -93,7 +93,9 @@ git push origin feature/nueva-funcionalidad
 ---
 
 ### 👨‍💻 **Autor**
-
+```bash
+https://github.com/CatizPlum
+```
 
 ---
 
