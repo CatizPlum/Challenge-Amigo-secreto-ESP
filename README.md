@@ -100,14 +100,4 @@ git push origin feature/nueva-funcionalidad
 ¡Gracias por visitar este proyecto! 🎉
 ```
 
----
-
-### ✅ **¿Cómo usar este README?**
-1. **Copia el contenido**.
-2. **Pégalo en un archivo llamado `README.md`** en la raíz de tu repositorio.
-3. **Haz un commit y súbelo a GitHub**.
-
----
-
-👉 **¿Quieres que agreguemos algo más o está perfecto así?** 😊
   
